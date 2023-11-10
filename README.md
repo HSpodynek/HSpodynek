@@ -1,7 +1,7 @@
 [![MasterHead](https://github.com/HSpodynek/HSpodynek/assets/131163231/5ef9f907-0833-48d8-bf58-522ddb771ef8)](https://github.com/HSpodynek)
 <h1 align="center">Hi 👋, I'm Hubert</h1>
 <h3 align="center">A passionate backend developer.</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/HSpodynek/HSpodynek/issues/1#issuecomment-1806294371"/>
+<img align="right" alt="Coding" width="400" src="https://github.com/HSpodynek/HSpodynek/assets/131163231/0e371788-4656-448d-be76-74953d4397df"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hspodynek&label=Profile%20views&color=0e75b6&style=flat" alt="hspodynek" /> </p>
 
 - 🌱 I’m currently learning **Java**
